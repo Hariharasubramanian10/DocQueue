@@ -1,0 +1,4 @@
+{
+  "name": "DocQueue - Smart Clinic Manager",
+  "description": "A modern, client-side clinic management application. Features a patient queue system, digital appointment notes, PDF prescription generation, and an AI-powered medical assistant using the Gemini API."
+}
